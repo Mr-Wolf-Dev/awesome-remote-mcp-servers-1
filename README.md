@@ -189,6 +189,11 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
 | Sienna by Knobs.co | E-Commerce | `https://sienna.knobs.co/mcp` | Open | [Knobs.co](https://knobs.co/pages/agents) |
+| EU Public Tenders (TED Europa) | Government & Procurement | `https://mr-wolf-1--eu-tenders-mcp-server.apify.actor/mcp` | API Key | [mrWolf](https://apify.com/mr.wolf/eu-tenders-mcp-server) |
+| SAM.gov US Federal Contracts | Government & Procurement | `https://mr-wolf-1--us-sam-tenders-mcp-server.apify.actor/mcp` | API Key | [mrWolf](https://apify.com/mr.wolf/us-sam-tenders-mcp-server) |
+| Tech & Startup Jobs (4 ATS) | Jobs & Recruiting | `https://mr-wolf-1--ats-jobs-mcp-server.apify.actor/mcp` | API Key | [mrWolf](https://apify.com/mr.wolf/ats-jobs-mcp-server) |
+| B2B Domain & Email Intel | Lead Enrichment | `https://mr-wolf-1--domain-intel-mcp-server.apify.actor/mcp` | API Key | [mrWolf](https://apify.com/mr.wolf/domain-intel-mcp-server) |
+| SEC EDGAR Filings & XBRL | Finance | `https://mr-wolf-1--sec-edgar-mcp-server.apify.actor/mcp` | API Key | [mrWolf](https://apify.com/mr.wolf/sec-edgar-mcp-server) |
 
 # Remote MCP Installation Guide
 
